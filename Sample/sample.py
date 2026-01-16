@@ -1,3 +1,5 @@
+# This file is modified from this github repository: https://github.com/HuangJiaLian/AudioProcessing
+# From seeing this Bilibili Video: 【想知道周杰伦能唱多高的音? Python频谱分析仪来帮你!【音频处理3】-哔哩哔哩】 https://b23.tv/w1k1gY4
 
 import pyaudio # 收集声音
 import numpy as np # 处理声音数据
